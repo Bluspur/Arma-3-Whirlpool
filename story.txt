@@ -1,0 +1,33 @@
+Horizon Island 2039. 
+
+BACKGROUND
+The significant Malaria outbreak of 2038 is over, the people have been cured of the disease. 
+The horizon islands are still politcally dominated by the pro CSAT Nouveaux Horizons party.
+The distribution of a vaccine was carried out by IDAP (through samples developed in the US based on CSAT research).
+With the "cure" came rumours of CSAT involvement in the creation of the virus.
+Le Ensemble, have been more and more active in the jungles of Tanoa, pushing government forces harder than ever.
+CSAT, no longer having the pretense of disease control, withdraw a significant amount of their forces off the island.
+They instead come to rely upon embedded local advisors with the growing Horizon Islands Defence Force (HIDF).
+
+SITUATION
+NATO has dispatched a small naval task force to the area around the Horizon Islands in order to oversee any developments in the situation.
+Confindentially, CTRG elements are being deployed onto the islands to perform recon, make contact with and support Le Ensemble.
+Your Area of Operations consists of the south east island of Iles de Lijn.
+HIDF presence on Iles de Lijn is centered primary around the towns of Lijnhaven and Harcourt.
+Together they guard the Main Supply route that runs from the mainland to Lijnhaven harbour.
+Smaller HIDF hardpoints exist around the island that either perform a particular function, or act as a staging point for patrols.
+There is known to be a single highly dangerous SR-750 AA system (provided by CSAT), which significantly threatens any friendly air assets.
+Le Ensemble is known to operate in and control significant portions of the jungle interior and frequently raid government positions.
+
+MISSION
+
+MAIN OBJECTIVES (NATO)
+1. Disable SR-750 AA system
+2. Upload virus to HIDF defence network
+3. Track CSAT confidential shipments (airport)
+
+LE ENSEMBLE 
+1. Make contact 
+
+TODO:
+-Populate Mission!

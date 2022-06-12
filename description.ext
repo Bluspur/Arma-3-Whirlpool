@@ -1,0 +1,45 @@
+class CfgFunctions {
+	#include "functions.hpp"
+};
+class Params {
+	class DetectionTime
+	{
+		title = "Radio Unit Detection Time";
+		values[] = {3,6,9,12};
+		texts[] = {"3s","6s","9s","12s"};
+		default = 9;
+	}
+}
+class CfgTaskDescriptions
+{
+	class Guer
+	{
+		title		= "Le Ensemble";
+		description	= "Supplement NATO operations on the island by cooperating with Le Ensemble in disrupting CSAT and HIDF.";
+	};
+	class GuerMeet
+	{
+		title		= "Meet Contact";
+		description	= "Le Ensemble have agreed to send a representative to meet with us and discuss cooperating in operations against CSAT and the HIDF.";
+	};
+	class NATO
+	{
+		title		= "NATO";
+		description	= "Complete objectives set out by NATO.";
+	};
+	class NATOAA
+	{
+		title		= "Disable Anti-Air";
+		description	= "CSAT have provided the HIDF with a state of the art SR-750 Anti-Air array which has been installed on the island. In order to ensure the security of our air assets, your team must destroy that installation, both the launch and radar systems.";
+	};
+	class NATOCargo
+	{
+		title		= "Retrieve Shipping Data";
+		description	= "Intelligence have been tracking the movements of some CSAT cargo that seems to be highly secretive. Some of that cargo seems to be being held at the airport near Lindhaven. We would like you to search the area it is being kept and retrieve any intelligence you can on the cargo.";
+	};
+	class NATOUpload
+	{
+		title		= "Upload Virus";
+		description	= "The HIDF operating in the Tanoa Region receive communications from La Roche via an array of transmitter towers. Recon imagery suggests the tower on Iles de Lijn is poorly protected. Your team should secure the tower, hijack the broadcasting equipment and upload a virus onto the central HIDF network.";
+	};
+};
