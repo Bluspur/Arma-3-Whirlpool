@@ -1,4 +1,4 @@
-# Arma-3---Whirlpool
+# Arma-3-Whirlpool
 ### June 2020
 
 ## Setting
